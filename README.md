@@ -1,2 +1,14 @@
 # bwinresult-notes
-HTML page archive and documentation
+
+自动发布文件目录
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
